@@ -43,7 +43,7 @@ const Ejemplo1 = () => {
                         'Content-Type' : 'application/json',
                     },
                     body: JSON.stringify({
-                        'Nombre' : 'leo el mas gay',
+                        'Nombre' : 'leonidas',
                         'Correo' : 'leonidas@gmail.com'
                     })
                 })
